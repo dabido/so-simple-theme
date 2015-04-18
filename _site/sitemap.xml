@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://localhost:4000</loc>
+    </url>
+    
+    
+    <url>
+        <loc>http://localhost:4000/404.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/about/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/index.original.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/search.json</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/tags/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/theme-setup/</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>http://localhost:4000/mt-fuji-to-the-top</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/introducing-my-mamachari</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/pokemon-center</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/trying-japanese-food-okonomiyaki</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/tokyo-tower</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/over-kamakura</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/goodbye-korea-hello-airport-chaos</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/running-through-seoul</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/viva-la-korea</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/exploring-zoshigaya</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/arriving-in-japan</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/moody-spotify-song-as-skype-mood</loc>
+    </url>
+    
+</urlset>

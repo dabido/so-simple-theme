@@ -1,0 +1,27 @@
+---
+layout: page
+title: Latest Posts
+description: "Coding, music, travel, more."
+tags: [david, mohl, programming, technology, blog]
+---
+
+<ul class="post-list">
+{% for post in site.posts limit:10 %}
+  <li>
+    <article>
+      <header>
+        <a href="{{ site.url }}{{ post.url }}"><h2>{{ post.title }}</h2> </a>
+        <a class="title-sub" href="#">Posted on <span class="list-entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span> by {%if post.author.name %}{{ post.author.name }}{% else %}{{ site.owner.name }}{% endif %}</a>
+      </header>
+      {% if post.image.feature %}
+        <img class="teaserimage" src="{{ site.url }}/images/{{ post.image.feature }}" alt="">
+      {% endif %}
+
+      <div>{{ post.content | truncatewords: 50}}</div>
+      <div class="entry-link-wrapper">
+        <a href="{{ site.url }}{{ post.url }}">Read full article ></a>
+      </div>
+    </article>
+  </li>
+{% endfor %}
+</ul>

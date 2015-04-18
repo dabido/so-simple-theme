@@ -1,0 +1,99 @@
+[
+	
+		{
+		  "title"      : "Mt. Fuji: To the top!",
+		  "category"   : "japan",
+		  "url"        : "http://localhost:4000/mt-fuji-to-the-top",
+		  "date"       : "2012-08-29 00:00:00 +0900",
+		  "shortdate"  : "August 29, 2012"
+		} ,
+	
+		{
+		  "title"      : "Introducing: My Mamachari",
+		  "category"   : "japan",
+		  "url"        : "http://localhost:4000/introducing-my-mamachari",
+		  "date"       : "2012-07-15 00:00:00 +0900",
+		  "shortdate"  : "July 15, 2012"
+		} ,
+	
+		{
+		  "title"      : "To the Pokemon Center!",
+		  "category"   : "japan",
+		  "url"        : "http://localhost:4000/pokemon-center",
+		  "date"       : "2012-07-07 00:00:00 +0900",
+		  "shortdate"  : "July 07, 2012"
+		} ,
+	
+		{
+		  "title"      : "Trying Japanese food: (Okonomiyaki)",
+		  "category"   : "japan",
+		  "url"        : "http://localhost:4000/trying-japanese-food-okonomiyaki",
+		  "date"       : "2012-07-02 00:00:00 +0900",
+		  "shortdate"  : "July 02, 2012"
+		} ,
+	
+		{
+		  "title"      : "Tokyo Tower!",
+		  "category"   : "japan",
+		  "url"        : "http://localhost:4000/tokyo-tower",
+		  "date"       : "2012-06-28 00:00:00 +0900",
+		  "shortdate"  : "June 28, 2012"
+		} ,
+	
+		{
+		  "title"      : "Over to Kamakura",
+		  "category"   : "japan",
+		  "url"        : "http://localhost:4000/over-kamakura",
+		  "date"       : "2012-06-25 00:00:00 +0900",
+		  "shortdate"  : "June 25, 2012"
+		} ,
+	
+		{
+		  "title"      : "Goodbye Korea, hello airport chaos",
+		  "category"   : "korea",
+		  "url"        : "http://localhost:4000/goodbye-korea-hello-airport-chaos",
+		  "date"       : "2012-06-20 00:00:00 +0900",
+		  "shortdate"  : "June 20, 2012"
+		} ,
+	
+		{
+		  "title"      : "Running through Seoul",
+		  "category"   : "korea",
+		  "url"        : "http://localhost:4000/running-through-seoul",
+		  "date"       : "2012-06-14 00:00:00 +0900",
+		  "shortdate"  : "June 14, 2012"
+		} ,
+	
+		{
+		  "title"      : "Viva La Korea",
+		  "category"   : "korea",
+		  "url"        : "http://localhost:4000/viva-la-korea",
+		  "date"       : "2012-06-13 00:00:00 +0900",
+		  "shortdate"  : "June 13, 2012"
+		} ,
+	
+		{
+		  "title"      : "Exploring Zoshigaya",
+		  "category"   : "japan",
+		  "url"        : "http://localhost:4000/exploring-zoshigaya",
+		  "date"       : "2012-06-08 00:00:00 +0900",
+		  "shortdate"  : "June 08, 2012"
+		} ,
+	
+		{
+		  "title"      : "Arriving in Japan",
+		  "category"   : "japan",
+		  "url"        : "http://localhost:4000/arriving-in-japan",
+		  "date"       : "2012-06-07 00:00:00 +0900",
+		  "shortdate"  : "June 07, 2012"
+		} ,
+	
+		{
+		  "title"      : "Moody - Spotify song as skype mood!",
+		  "category"   : "other stuff",
+		  "url"        : "http://localhost:4000/moody-spotify-song-as-skype-mood",
+		  "date"       : "2012-05-16 00:00:00 +0900",
+		  "shortdate"  : "May 16, 2012"
+		} 
+	
+]
